@@ -10,9 +10,7 @@ poetry install
 ```
 
 Lancez le projet avec poetry :
-```bash
-poetry run streamlit run app.py
-```
+ streamlit run app.py
 
 ## 🚀 Fonctionnalités
 
