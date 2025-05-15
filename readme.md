@@ -4,9 +4,8 @@ Bienvenue sur **Fruit Manager**, un tableau de bord interactif pour gérer votre
 
 ## 🛠️ Installation
 
-Création de l'environnement virtuel :
-- Lancez le projet avec poetry :
-- streamlit run app.py
+- Création de l'environnement virtuel 
+- Lancez le projet avec poetry : streamlit run app.py
 
 ## 🚀 Fonctionnalités
 
